@@ -1,0 +1,22 @@
+{
+  "name": "smart-traffic-analyzer",
+  "version": "2.4.0",
+  "description": "AI-powered traffic prediction engine — Hackathon Edition",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev":   "npx nodemon server.js"
+  },
+  "dependencies": {
+    "cors":    "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": ["traffic", "prediction", "hackathon", "smart-city"],
+  "license": "MIT"
+}
