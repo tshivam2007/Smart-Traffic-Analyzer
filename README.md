@@ -10,16 +10,16 @@ Real-time predictions · Alternate routes · Festival alerts · Voice assistant 
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-00d2ff?style=for-the-badge)](https://smart-traffic-analyzer.onrender.com)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tshivam2007/Smart-Traffic-Analyzer)
-[![Made with Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Leaflet Maps](https://img.shields.io/badge/Leaflet-Maps-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com)
-[![Chart.js](https://img.shields.io/badge/Chart.js-Graphs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://chartjs.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-1100cc?style=for-the-badge)](https://smart-traffic-analyzer.onrender.com)
+[![GitHub Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/tshivam2007/Smart-Traffic-Analyzer)
+[![Made with Node.js](https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Leaflet Maps](https://img.shields.io/badge/Maps-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com)
+[![Chart.js](https://img.shields.io/badge/Graphs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://chartjs.org)
+[![License: MIT](https://img.shields.io/badge/MIT-yellow?style=for-the-badge)](LICENSE)
 
 <br/>
 
-> 🏆 **Built for Hackwarts Hackathon 2025** — Hackathon Edition v2.4
+> 🏆 **Built for Hackathon 2026** — Hackathon Edition v2.4
 
 </div>
 
