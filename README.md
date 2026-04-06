@@ -184,47 +184,8 @@ Smart-Traffic-Analyzer/
 - npm v7 or higher
 - Any modern browser (Chrome, Edge, Firefox, Safari)
 
-### Option A — Open Directly (No Backend)
-
-Simply double-click `index.html` in your browser — no server needed! ✅
-
-The client-side prediction engine works completely offline.
-
----
-
-### Option B — With Node.js Backend
-
-**1. Clone the Repository**
-```bash
-git clone https://github.com/ShivamTiwari/Smart-Traffic-Analyzer.git
-cd Smart-Traffic-Analyzer
-```
-
-**2. Install Dependencies**
-```bash
-npm install
-```
-
-**3. Start the Server**
-```bash
-npm start
-```
-
-**4. Open in Browser**
-```
-http://localhost:3000
-```
-
-**5. Development Mode (Auto-restart on file change)**
-```bash
-npm run dev
-```
-
----
-
 ## 📡 API Reference
 
-Base URL Local: `http://localhost:3000`
 Base URL Live: `https://smart-traffic-analyzer.onrender.com`
 
 ---
@@ -413,28 +374,6 @@ Works in Chrome, Edge, Safari and Firefox.
 
 ---
 
-## 🔧 Deployment
-
-### Deploy on Render (Free, No Credit Card)
-
-1. Fork this repository on GitHub
-2. Go to [render.com](https://render.com) and sign up with GitHub
-3. Click **New +** then **Web Service**
-4. Connect your forked repository
-5. Fill in these settings:
-
-| Setting | Value |
-|---------|-------|
-| Build Command | npm install |
-| Start Command | node server.js |
-| Instance Type | Free |
-
-6. Click **Create Web Service** — your site is live in ~3 minutes!
-
-No environment variables required. Works out of the box.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -464,7 +403,7 @@ Distributed under the MIT License.
 
 <div align="center">
 
-**Built with ❤️ for Hackwarts Hackathon 2025**
+**Built with ❤️ 2026**
 
 *If this project helped you, please give it a ⭐ star on GitHub!*
 
