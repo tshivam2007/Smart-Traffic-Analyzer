@@ -407,7 +407,7 @@ Distributed under the MIT License.
 
 *If this project helped you, please give it a ⭐ star on GitHub!*
 
-[![GitHub stars](https://img.shields.io/github/stars/ShivamTiwari/Smart-Traffic-Analyzer?style=social)](https://github.com/ShivamTiwari/Smart-Traffic-Analyzer)
+[![GitHub stars](https://img.shields.io/github/stars/ShivamTiwari/Smart-Traffic-Analyzer?style=social)](https://github.com/tshivam2007/Smart-Traffic-Analyzer)
 
 </div>
 =======
