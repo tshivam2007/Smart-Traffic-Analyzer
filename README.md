@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🚦 Smart Traffic Analyzer
@@ -470,3 +471,8 @@ Distributed under the MIT License.
 [![GitHub stars](https://img.shields.io/github/stars/ShivamTiwari/Smart-Traffic-Analyzer?style=social)](https://github.com/ShivamTiwari/Smart-Traffic-Analyzer)
 
 </div>
+=======
+# Smart Traffic Analyzer
+This site is work to predict taffics conditions on the specific dates and areas by analysing the different-different rules that we implemented in the site.
+https://smart-traffic-analyzer.onrender.com/
+>>>>>>> 4d3f5c83da0f2ec6ffca2b03ddaa01bd4106bb5f
